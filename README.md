@@ -3,6 +3,7 @@
 Esse projeto é uma prática de estudos de docker. Ele envolve dois projetos:
 
 🔹Postgres: execução de um projeto básico com ligação ao banco de dados Postgres.
+
 🔹Node: execução de um projeto básico com ligação ao banco de dados Postgres
  
 ## 👨‍💻 Tecnologias Utilizadas:
