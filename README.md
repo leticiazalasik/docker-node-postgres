@@ -14,4 +14,5 @@ Docker
 
 
 Tutorial base 1 (postgres) : [https://www.youtube.com/watch?v=KlbL-8CEjN0) .
-Tutorial base 2 (node) : [https://www.youtube.com/watch?v=AVNADGzXrrQ) .
+
+]Tutorial base 2 (node) : [https://www.youtube.com/watch?v=AVNADGzXrrQ) .
