@@ -13,6 +13,7 @@ Docker
 ⏯️Para testar é necessário: além de ter todas as tecnologias citadas em seu dispositivo e usar o comando "docker-compose up -d" no terminal.
 
 
-Tutorial base 1 (postgres) : [https://www.youtube.com/watch?v=KlbL-8CEjN0) .
 
-]Tutorial base 2 (node) : [https://www.youtube.com/watch?v=AVNADGzXrrQ) .
+Tutorial base 1 (postgres) : [https://www.youtube.com/watch?v=KlbL-8CEjN0)
+
+Tutorial base 2 (node) : [https://www.youtube.com/watch?v=AVNADGzXrrQ)
